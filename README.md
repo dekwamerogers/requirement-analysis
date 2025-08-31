@@ -84,7 +84,7 @@ Actors include:
 - **Host** (manages listings)  
 - **Admin** (manages users, handles disputes)  
 
-![Booking System Use Case Diagram](./stayeasy-use-case-diagram.jpg)
+![Booking System Use Case Diagram](./alx-booking-uc.png)
 
 ---
 
